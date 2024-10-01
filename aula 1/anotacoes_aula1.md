@@ -1,4 +1,4 @@
-# Resumo da Aula de Estruturas de Dados 📚
+# Resumo da Aula 1 📚
 
 Um PC possui diversos componentes de hardware para funcionar corretamente,
 mas sem dúvidas o mais importante para esta disciplina é a memória RAM. 🖥️
@@ -6,11 +6,20 @@ mas sem dúvidas o mais importante para esta disciplina é a memória RAM. 🖥�
 Os programas que desenvolvemos geralmente utilizam a memória RAM para
 gravar e ler dados.
 
-Temos dois tipos principais de memória: secundária e primária.
+Temos dois tipos principais de memória:
 
-- **Memória Secundária**: Mantém dados mesmo sem energia.
-- **Memória Primária**: Não funciona assim; ela só mantém dados
-armazenados na presença de energia.
+- **Memória Secundária**: Esta memória é projetada para armazenar dados de
+forma permanente, mesmo quando o computador está desligado. Exemplos comuns
+incluem discos rígidos (HDDs), unidades de estado sólido (SSDs) e pen drives.
+Ela é crucial para o armazenamento de arquivos, programas e sistemas operacionais.
+
+- **Memória Primária**: Também conhecida como memória volátil, essa memória é
+responsável por armazenar dados temporariamente enquanto o computador está ligado.
+A memória RAM (Random Access Memory) é um exemplo típico. Ela mantém os dados e programas
+em uso, mas perde essas informações quando a energia é desligada. Isso a torna essencial
+para o desempenho e a velocidade do sistema, permitindo acesso rápido aos dados que estão
+sendo utilizados ativamente.
+
 
 Podemos entender a memória RAM da seguinte forma: ela é composta por
 diversos chips com endereços de memória, como se fossem regiões na
