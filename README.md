@@ -1,7 +1,10 @@
 # Curso de Estrutura de Dados - DIO
-**Descrição:** Repositório para registrar estudos do curso de Estrutura de Dados em Java, da DIO.
 
-**Motivação:** Após cursar esta disciplina na graduação de Sistemas de Informação, senti a necessidade de
-               aprofundar e fixar os conhecimentos obtidos sobre este tema.
+## 📝 Descrição
+Repositório dedicado ao registro dos estudos do curso de Estrutura de Dados em Java da DIO. Aqui, você encontrará anotações, exercícios e implementações que ajudam a consolidar os conceitos abordados na disciplina.
 
-**Objetivo:** Aprimorar habilidades em Java e conhecimentos sobre algoritmos em geral e estruturas de dados.
+## 💡 Motivação
+Após cursar esta disciplina na graduação em Sistemas de Informação, percebi a importância de aprofundar e fixar os conhecimentos adquiridos. Este repositório é uma forma de tornar esse aprendizado mais sólido e duradouro.
+
+## 🎯 Objetivo
+Aprimorar habilidades em Java e expandir o entendimento sobre algoritmos e estruturas de dados, explorando suas aplicações práticas e teóricas.
